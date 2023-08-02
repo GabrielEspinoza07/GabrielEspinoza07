@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- My name Gabriel Espinoza
+- I am currently a fellow in the KKCF program
+- I am currently learning HTML, JavaScript, CSS, and Java
 <!--
 **GabrielEspinoza07/GabrielEspinoza07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
